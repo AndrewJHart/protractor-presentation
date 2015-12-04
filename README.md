@@ -1,5 +1,27 @@
 A step-by-step guide presentation on Protractor end-to-end testing.
 
+## installation for running locally
+
+clone this repo, cd into the repo and install node-static:
+
+```bash
+npm install node-static
+```
+
+After installation cd into dir `docs/slides` and run:
+
+```bash
+static
+```
+
+This will start a simple webserver on port 8080 to host this presentation. Navigate to:
+
+```
+http://localhost:8080
+```
+
+Enjoy the presentation.
+
 <table>
 <tr>
 <td>
